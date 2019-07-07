@@ -1,0 +1,18 @@
+数据来源：snap.stanford.edu/data/loc-brightkite.html
+
+边文件中有重复边
+节点：58228
+边：214078
+
+Nodes 	58228
+Edges 	214078
+Nodes in largest WCC 	56739 (0.974)
+Edges in largest WCC 	212945 (0.995)
+Nodes in largest SCC 	56739 (0.974)
+Edges in largest SCC 	212945 (0.995)
+Average clustering coefficient 	0.1723
+Number of triangles 	494728
+Fraction of closed triangles 	0.03979
+Diameter (longest shortest path) 	16
+90-percentile effective diameter 	6
+Checkins 	4,491,143

@@ -1,0 +1,8 @@
+# Directed graph (each unordered pair of nodes is saved once): CA-GrQc.txt 
+# Collaboration network of Arxiv General Relativity category (there is an edge if authors coauthored at least one paper)
+# Nodes: 5242 Edges: 28980
+# FromNodeId	ToNodeId
+
+以上是网络图文件CA-GrQc.txt的表头
+-------------------------------------------------------
+数据下载地址：http://snap.stanford.edu/data/ca-GrQc.html

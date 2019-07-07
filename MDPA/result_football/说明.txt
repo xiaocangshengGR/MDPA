@@ -1,0 +1,8 @@
+American College football: network of American football games between Division IA colleges during regular season Fall 2000. 
+Please cite M. Girvan and M. E. J. Newman, Proc. Natl. Acad. Sci. USA 99, 7821-7826 (2002).
+
+
+
+undirected
+nodes:115
+edges:613

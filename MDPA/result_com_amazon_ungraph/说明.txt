@@ -1,0 +1,13 @@
+Nodes	334863
+Edges	925872
+Nodes in largest WCC	334863 (1.000)
+Edges in largest WCC	925872 (1.000)
+Nodes in largest SCC	334863 (1.000)
+Edges in largest SCC	925872 (1.000)
+Average clustering coefficient	0.3967
+Number of triangles	667129
+Fraction of closed triangles	0.07925
+Diameter (longest shortest path)	44
+90-percentile effective diameter	15
+
+http://snap.stanford.edu/data/com-Amazon.html
